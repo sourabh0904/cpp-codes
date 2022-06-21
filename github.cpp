@@ -20,5 +20,4 @@ int main() {
 	    }
 	    cout<<total-unaffected<<endl;
 	}
-	return 0;
 }
